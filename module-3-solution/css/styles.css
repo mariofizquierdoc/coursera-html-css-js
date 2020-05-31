@@ -1,0 +1,19 @@
+.protein-menu-container {
+	background: #999;
+	margin: 30px auto;
+	padding: 10px;
+}
+
+.protein-menu-container h3 {
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.protein-menu-container p {
+	font-size: 1.15em;
+}
+
+.btn-info {
+	background: #91ADC2;
+	color: #001011;
+}
